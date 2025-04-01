@@ -1,0 +1,12 @@
+---
+:id: 319177216
+:submitters:
+- :name: Cheng-Lun Tai
+  :email: c8tai@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-03-22 05:03:29.444194000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-03-21 22:03:29.444194000 Z
+:status: processed
+:score: 50.0
